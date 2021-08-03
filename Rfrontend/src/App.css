@@ -1,0 +1,21 @@
+.headding{
+    background-color: aqua;
+}
+
+#loginForm{
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
+
+#cta{
+    padding-bottom: 10px;
+}
+
+#btns{
+    width:"40%"
+}
+
+#loginForm1{
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
